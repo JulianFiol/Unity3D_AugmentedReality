@@ -1,6 +1,9 @@
 *.pdf
 *.zip
 
+*samples*
+*sdk*
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
